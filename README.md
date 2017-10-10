@@ -25,7 +25,7 @@ $ pip install -e .
 Set up jupyter notebook in your environment and make your environment kernel selectable.
 
 ```
-python -m ipykernel install --user --name mi
+$ python -m ipykernel install --user --name mi
 ```
 
 
