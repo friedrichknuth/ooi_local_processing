@@ -1,0 +1,11 @@
+name: mi
+channels:
+  - ooi
+  - conda-forge
+  - defaults
+dependencies:
+  - python=2
+  - mi-instrument
+  - ion-functions
+  - matplotlib
+  - nb_conda_kernels
