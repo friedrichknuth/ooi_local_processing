@@ -16,7 +16,7 @@ Grab the parser code and set up your environment.
 ```
 $ git clone https://github.com/oceanobservatories/mi-instrument.git
 $ cd mi-instrument
-$ conda create -n mi pip Cython docopt ipykernel netcdf4
+$ conda create -n mi pip cython docopt ipykernel netcdf4
 $ source activate mi
 $ pip install -r requirements.txt
 $ pip install -e .
